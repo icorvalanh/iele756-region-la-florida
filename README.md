@@ -1,7 +1,8 @@
-# Tarea 0 — Análisis de Datos
+# Tareas — Análisis de Datos
 
 **Integrantes**: Ignacio Corvalán y Valentina Cornejo
 **Región asignada**: Región Metropolitana - La Florida
 
-## Descripción
-Este repositorio contiene el desarrollo de la Tarea 0 del curso, enfocada en la carga, inspección y filtrado de los datasets Census 2024, ENO y GRD.
+## Contenido del repositorio
+- Tarea 0: carga, inspección y filtrado de datasets.
+- Tarea 1: Análisis demográfico y migratorio de la comuna asignada.
